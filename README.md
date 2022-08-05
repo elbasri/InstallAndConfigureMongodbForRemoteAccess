@@ -19,7 +19,7 @@ db.createUser(
     
 )
 
-/etc/mongod.conf
+/etc/mongoddb.conf
 
 mongo "mongodb://2.58.82.240:27017"
 
