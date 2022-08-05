@@ -23,4 +23,5 @@ db.createUser(
 mongo "mongodb://2.58.82.240:27017"
 
 mongo -u MongoRoot -p
+
 mongo -u MongoRoot -p --host 2.58.82.240:27017
