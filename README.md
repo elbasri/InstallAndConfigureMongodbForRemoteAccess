@@ -3,8 +3,11 @@
 
 
 sudo ufw allow from 2.58.82.240 to any port 27017
+
 sudo ufw allow 27017
+
 use admin
+
 db.createUser(
 
     {
